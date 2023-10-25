@@ -78,7 +78,6 @@ public class MainActivity3 extends AppCompatActivity {
             }
         });
 
-
     }
 
     @Override
